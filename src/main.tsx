@@ -20,9 +20,9 @@ import App from "./App";
 // * Satisfies
 // * As Const
 // * Global scope
-// * Branded Types
 
 // ? Extra Credit
+// * Branded Types
 // * Identity Functions
 // * Reverse Mapped Types
 
