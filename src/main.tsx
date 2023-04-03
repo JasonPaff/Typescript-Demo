@@ -7,8 +7,8 @@ import App from "./App";
 // ! Utility Types
 // * - Mapped Types
 // * - Type Constraints
-// * - Template Literals
 // * - Key Remapping
+// * - Template Literals
 // * - Conditional Types
 // * - Infer Keyword
 // * - Recursive Types
@@ -19,6 +19,7 @@ import App from "./App";
 // * Type Assertions
 // * Satisfies
 // * As Const
+// * Global scope
 // * Branded Types
 
 // ! Extra Credit
