@@ -2,19 +2,19 @@ import ReactDOM from "react-dom/client";
 import React from "react";
 import App from "./App";
 
-// ? TOPICS TO COVER
+// ! TOPICS TO COVER
 
-// ! Utility Types
+// ? Utility Types
 // * - Mapped Types
 // * - Type Constraints
 // * - Key Remapping
 // * - Template Literals
 // * - Conditional Types
-// * - Infer Keyword
+// * - Infer
 // * - Recursive Types
 
-// ! Type Narrowing
-// * In Keyword
+// ? Type Narrowing
+// * In
 // * Type Predicates
 // * Type Assertions
 // * Satisfies
@@ -22,7 +22,7 @@ import App from "./App";
 // * Global scope
 // * Branded Types
 
-// ! Extra Credit
+// ? Extra Credit
 // * Identity Functions
 // * Reverse Mapped Types
 
